@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Animal Names &amp; Noises</langstring>
+          <langstring xml:lang="x-none">Animal Sounds</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Animal_Names_&amp;_Noises_ORG">
-    <organization identifier="Animal_Names_&amp;_Noises_ORG">
-      <title>Animal Names &amp; Noises</title>
-      <item identifier="Animal_Names_&amp;_Noises_SCO" isvisible="true" identifierref="__5yq3jQ9Z4VW_course_id_RES">
-        <title>Animal Names &amp; Noises</title>
+  <organizations default="Animal_Sounds_ORG">
+    <organization identifier="Animal_Sounds_ORG">
+      <title>Animal Sounds</title>
+      <item identifier="Animal_Sounds_SCO" isvisible="true" identifierref="__5yq3jQ9Z4VW_course_id_RES">
+        <title>Animal Sounds</title>
       </item>
     </organization>
   </organizations>
